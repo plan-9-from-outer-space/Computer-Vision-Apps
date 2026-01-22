@@ -1,0 +1,24 @@
+[project]
+name = "practical-computer-vision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi",
+    "ipywidgets",
+    "jupyterlab",
+    "numpy",
+    "onnx",
+    "onnxruntime",
+    "onnxscript",
+    "opencv-python",
+    "Pillow",
+    "pyinstaller",
+    "python-multipart",
+    "torch",
+    "torchvision",
+    "transformers",
+    "ultralytics",
+    "uvicorn[standard]",
+]
